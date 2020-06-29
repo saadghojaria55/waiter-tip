@@ -1,6 +1,3 @@
-# Tip_Calculator
+# Waiter_Tip_Calculator
 
-# #100daysofcode
-
-## day-25
-
+# #
